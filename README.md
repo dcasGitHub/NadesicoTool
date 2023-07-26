@@ -6,7 +6,7 @@ Introduction
 NadesicoTool is a command-line tool made in Java for the purpose of ROM hacking.
 It is used to patch code and generate font data for Kidou Senkan Nadesico: Nadesico the Mission (機動戦艦ナデシコ).
 
-It was created for research on the games data, it is fairly early in its stage of research.
+It was created for research on the games data, it is fairly early in its stage of development.
 
 Usage
 -
